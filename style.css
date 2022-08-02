@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("image/patial\ sunny.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+}
+
+.card {
+  background: #eaeaead7;
+  padding: 1rem;
+  border-radius: 30px;
+  max-width: 420px;
+  width: 100%;
+}
